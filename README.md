@@ -1,10 +1,8 @@
-Here’s a polished, professional, and detailed GitHub README for your AI-based attendance management system:
 
----
 
 # AI-Based Attendance Management System
 
-An intelligent **attendance management system** leveraging **AI facial recognition**, **Spring Boot**, **Next.js**, **MySQL**, and **Python** to automate and secure attendance tracking for online classes. The system prevents proxy attendance, ensures student authentication, and provides a seamless user experience for both teachers and students.
+An intelligent **attendance management system** leveraging **AI facial recognition**, Spring Boot, Next.js, MySQL, and Python to automate and secure attendance tracking for online classes. The system prevents proxy attendance, ensures student authentication, and provides a seamless user experience for both teachers and students.
 
 ---
 
@@ -178,6 +176,16 @@ join class
 <img width="1916" height="915" alt="Screenshot 2026-03-18 203027" src="https://github.com/user-attachments/assets/c60be0f6-a2bd-482d-8763-b80f31d97d84" />
 face verifaction for attendance
 <img width="1888" height="906" alt="Screenshot 2026-03-18 203039" src="https://github.com/user-attachments/assets/c2c01e7f-437f-4eeb-a550-2f0ec29f0541" />
+verified
+<img width="1913" height="906" alt="Screenshot 2026-03-17 023626" src="https://github.com/user-attachments/assets/304c650c-135d-496a-8ad8-85a503a564a8" />
+
 search class
 <img width="1908" height="911" alt="Screenshot 2026-03-18 203054" src="https://github.com/user-attachments/assets/1e68ee73-f7d8-4c2b-8d78-4ba1311548c7" />
+
+teacher class
+<img width="952" height="679" alt="Screenshot 2026-03-19 012605" src="https://github.com/user-attachments/assets/fb3c51ec-33fb-40ab-a903-985506325882" />
+
+class attendance
+<img width="1902" height="873" alt="Screenshot 2026-03-17 025027" src="https://github.com/user-attachments/assets/57342c99-2339-4874-8ed1-3c2326012e57" />
+
 
